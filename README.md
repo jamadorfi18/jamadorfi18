@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amador</h1>
-<h3 align="center">I'm a sotware developer with more than 10 years of experience, I've participated in lot of projects including web, destkop and mobile, I have 5 year as a tech lead and sometimes Scrum Master, but it was for food, I swear!</h3>
+<h3 align="center">I'm a sotware developer with more than 10 years of experience, I've participated in lot of projects including web, destkop and mobile, I have 5 year as a tech lead and sometimes Scrum Master.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamadorfi18&label=Profile%20views&color=0e75b6&style=flat" alt="jamadorfi18" /> </p>
 
