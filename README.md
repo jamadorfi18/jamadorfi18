@@ -6,6 +6,10 @@
 
 - 🔭 I’m currently working on [codebay](codebay.us)
 
+- 🌱 I’m currently learning **Docker and DevOps philosophy**
+
+- 💬 Ask me about **C#, js, vuejs, python, django and software architecture**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/josé-amador-flores-ibarra-50bb1073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-amador-flores-ibarra-50bb1073" height="30" width="40" /></a>
