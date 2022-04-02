@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamadorfi18&label=Profile%20views&color=0e75b6&style=flat" alt="jamadorfi18" /> </p>
 
-- 🔭 I’m currently working on [codebay](codebay.us)
+- 🔭 I’m currently working on [codebay](https://codebay.us)
 
 - 🌱 I’m currently learning **Docker and DevOps philosophy**
 
